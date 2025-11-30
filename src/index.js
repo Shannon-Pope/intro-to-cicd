@@ -1,4 +1,4 @@
-//Adding a comment
+//Adding a comment in the file
 function sayHi(name) {
   return `Hello there ${name}`
 }
